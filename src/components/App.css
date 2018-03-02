@@ -1,0 +1,28 @@
+.logo {
+  width: 10em;
+}
+
+.box-container-time {
+  border: 2px solid blueviolet;
+}
+
+.box-time {
+  font-size: 1.75em;
+  font-weight: bold;
+}
+
+.c1 {
+  color: #0077b5;
+}
+
+.c2 {
+  color: #08ac9d;
+}
+
+.c3 {
+  color: #f7b617;
+}
+
+.c4 {
+  color: #dd2e44;
+}
