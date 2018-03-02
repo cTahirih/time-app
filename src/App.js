@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import Header from './Header'
-import Screen from './Screen'
-import Buttons from './Buttons'
-import { extraTimeParts } from '../helpers/timers';
+import Header from './components/Header'
+import Screen from './components/Screen'
+import Buttons from './components/Buttons'
+import { extraTimeParts } from './helpers/timers';
 import { setInterval, clearInterval } from 'timers';
 import './App.css';
 
